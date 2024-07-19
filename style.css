@@ -1,0 +1,23 @@
+
+#title {
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+#button {
+    color: black;
+}
+
+#button:focus {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
